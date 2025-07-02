@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**
-Oct 7 2024
+July 2 2025
 
 # Privacy Policy
 
@@ -64,8 +64,12 @@ They include:
 * **Google Maps SDK:** Provides mapping and location services. By using this feature, you agree to the [Google Maps Platform Terms of Service](https://cloud.google.com/maps-platform/terms).
 * **Google Fonts:** The app utilizes fonts provided by Google Fonts, including “Montserrat Alternates” and “Poppins.” These fonts are used under the licenses described in the [Google Fonts Licensing](https://fonts.google.com/knowledge/glossary/licensing).
 * **Material Icons:** The app uses Material Icons provided by Google. These icons are licensed under the [Apache License 2.0](https://github.com/google/material-design-icons/blob/master/LICENSE).
+*   [AppsFlyer](https://www.appsflyer.com/legal/services-privacy-policy/)
+*   [Microsoft Clarity](https://www.microsoft.com/en-us/privacy/privacystatement)
 
 **Please review their respective privacy policies to understand how they handle your data.**
+
+We partner with Microsoft Clarity and Microsoft Advertising to capture how you use and interact with our website through behavioral metrics, heatmaps, and session replay to improve and market our products/services. Website usage data is captured using first and third-party cookies and other tracking technologies to determine the popularity of products/services and online activity. Additionally, we use this information for site optimization, fraud/security purposes, and advertising.
 
 ## 4. Payment Information
 
